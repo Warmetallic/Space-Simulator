@@ -1,0 +1,39 @@
+﻿  VertexBufferObjectIndexed.cpp
+  VertexBufferObject.cpp
+  Texture.cpp
+  Tetrahedron.cpp
+  Sphere.cpp
+  Skybox.cpp
+  Shaders.cpp
+  Plane.cpp
+  OpenAssetImportMesh.cpp
+  MatrixStack.cpp
+  dummy.cpp
+  GLM: Windows platform detected
+  GLM: Visual C++ compiler detected
+  GLM: 32 bits model
+  GLM: C++ with VC language extensions
+  GLM: Platform independent
+  GLM: x,y,z,w; r,g,b,a; s,t,p,q component names for all vector types
+  GLM: Swizzling operators enabled
+  GLM: Core library included
+  HighResolutionTimer.cpp
+  GameWindow.cpp
+  Game.cpp
+Game.cpp(756): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(806): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(807): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(1009): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(1013): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  FreeTypeFont.cpp
+  FrameBufferObject.cpp
+  Fog.cpp
+  Cubemap.cpp
+  Cube.cpp
+  CatmullRom.cpp
+  Generating Code...
+  Compiling...
+  Camera.cpp
+  Audio.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> C:\Users\Gleb\Desktop\IN3005Graphics\Source\Debug\OpenGLTemplate.exe
